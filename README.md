@@ -60,10 +60,11 @@ Project structure:
 
 ## Running 
 
-1. pip install requirements.txt
-2. Run following command:
+1. Clone repository.
+2. pip install requirements.txt
+3. Run following command:
     1. from the '/src/db' - docker compose up
-3. Start server by running "py main.py"
+4. Start server by running "py main.py"
 
 ## Endpoints
 
